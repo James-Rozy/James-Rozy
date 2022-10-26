@@ -1,5 +1,8 @@
-### Hi there 👋
+# 🧙‍♂️ James Rozsypal 
 
+**`Keyboard Wizard (Developer/Designer)`**
+
+Hello! I am full stack developer! 
 <!--
 **James-Rozy/James-Rozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
