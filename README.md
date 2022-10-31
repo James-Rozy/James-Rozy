@@ -1,8 +1,8 @@
-# 🧙‍♂️ James Rozsypal 
+# 👨🏼‍🏭⛏ James Rozsypal 
 
-**`Keyboard Wizard (Developer/Designer)`**
+**`Code Miner (Developer/Designer)`**
 
-Hello! I am full stack developer! 
+Hello and welcome to my GitHub page! My name is James, I am a full stack web developer and front end designer. I use this page to keep track of all of my personal coding projects. 
 <!--
 **James-Rozy/James-Rozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
